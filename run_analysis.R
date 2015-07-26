@@ -57,4 +57,5 @@ for (s in 1:numSubjects) {
         row = row+1 
     } 
 } 
+
 write.table(result, "final_data_with_averages.txt", row.name=FALSE) 
