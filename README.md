@@ -4,7 +4,7 @@ Course work for Getting and Cleaning Data course on Coursera
 
 ## Course Project
 
-* Download and unzip the source data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip in a folder on your computer say FOLDER
+* Download and unzip the source data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip in a folder on your computer, say FOLDER
 
 * Change your working directory to FOLDER/UCI HAR Dataset
 
