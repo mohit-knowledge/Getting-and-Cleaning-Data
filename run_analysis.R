@@ -37,7 +37,6 @@ names(subject_merge) <- "Subject"
 # Merge the three datasets
 
 final_data <- cbind(subject_merge, y_merge, X_mean_std) 
-write.table(final_data, "final_data.txt") 
 
 # Create a 2nd, independent tidy data set with the average of each variable for each activity and each subject
 
